@@ -1,5 +1,7 @@
 # 🏠 House Project
 
+House Project is a Spring Boot RESTful API built with Gradle that allows users to manage house listings (city, street, type). It uses Spring Data JPA with MySQL for persistence and supports full CRUD operations. API testing is done using Postman.
+
 A Spring Boot RESTful API for managing house listings built with Gradle and tested with Postman.
 
 ## 🔧 Technologies Used
